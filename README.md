@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [frontendmentor](https://www.frontendmentor.io/solutions/mobilefirst-solution-using-flexbox-LGgK_BNJ6F)
-- Live Site URL: [github](https://manannan297.github.io/frontendmentor/product-preview-card-component-main)
+- Live Site URL: [github](https://manannan297.github.io/fm-product-preview-card-component/)
 
 ## My process
 
